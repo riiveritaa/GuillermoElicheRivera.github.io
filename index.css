@@ -1,0 +1,44 @@
+body{
+    background: url(imagenes/fondo.jpg) no-repeat center center fixed;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+}
+
+.logo {
+    align-content: center;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    align-content: center;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+
+
+.poster {
+    align-content: center;
+}
+
+.img {
+    border: 10px;
+    border-radius: 22px;
+    border-color: brown;
+    border-style: outset;
+    text-align: center;
+
+
+}
+
+section {
+    text-align: center;
+
+}
+
+
